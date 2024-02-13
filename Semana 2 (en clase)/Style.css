@@ -1,0 +1,36 @@
+img.enlace{
+    height: 100px;
+    width: 100px;
+    padding-left: 15px;
+}
+img.responsive{
+    max-width: 100%;
+    height: auto;
+}
+img.responsive:hover{
+    transform: scale(1.2);
+    filter: grayscale(100%);
+}
+h2.redes{
+    background-color: #FECEA8;
+}
+h2.hipervinculos{
+    background-color: #CD5C5C;
+}
+h2.embebidos{
+    background-color: #C39BD3;
+}
+h2.web{
+    background-color: #85C1E9;
+}
+h1.titulo{
+    font-family: Arial;
+    font-size: 50px;
+    text-align: center;
+    color: #82E0AA;
+}
+h2,p{
+    font-family: "Times New Roman";
+    color: white;
+    text-align: center;
+}
